@@ -1,1 +1,1 @@
-This project is my first introduction to DevOps.
+Diving gradually into DevOps
