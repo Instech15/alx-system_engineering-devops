@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The absolute path name of my current working directory is 'pwd'\n"
+"The absolute path name of my current working directory is 'pwd'\n"
