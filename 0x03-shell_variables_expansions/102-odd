@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n | grep
+sed -n 'p;n'
