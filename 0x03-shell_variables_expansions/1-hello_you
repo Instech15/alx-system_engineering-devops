@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello whoami
+u="$USERNAME" echo "hello $u"
